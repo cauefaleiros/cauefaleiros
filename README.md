@@ -32,6 +32,6 @@ Also a fan of fantasy and romantic comedy novels, as well as watching anime and 
 
 ## Contacts
 
-📫 E-mail: [cauefaleiros@gmail.com](mailto:cauefaleiros@gmail.com)
+📫 E-mail: [cauefaleiros@gmail.com](mailto:cauefaleiros@gmail.com)<br>
 🌐 LinkedIn: [LinkedIn](https://www.linkedin.com/in/cauefaleiros/)
 

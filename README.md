@@ -29,4 +29,6 @@ Also a fan of fantasy and romantic comedy novels, as well as watching anime and 
 
 ---
 
-📫 Contact me: [cauefaleiros@gmail.com](mailto:cauefaleiros@gmail.com)
+## Contacts
+
+📫 E-mail: [cauefaleiros@gmail.com](mailto:cauefaleiros@gmail.com)

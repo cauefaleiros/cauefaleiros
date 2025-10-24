@@ -23,10 +23,15 @@ I also enjoy fantasy and romantic comedy novels.
 
 ## Currently Reading
 
-<div style="display: flex; align-items: center;">
-  <img src="51M1-8dgi1L._SL1200___76126.jpg" alt="Concepts of Programming Languages by Sebesta" width="200" style="margin-right: 20px;" />
+<div style="display: flex; align-items: center; gap: 20px; margin-top: 10px;">
+  <img src="https://images-na.ssl-images-amazon.com/images/I/41X7n-1WiJL._SX403_BO1,204,203,200_.jpg" alt="Concepts of Programming Languages" width="120" />
   <div>
-    <p><strong>Concepts of Programming Languages</strong> by Robert W. Sebesta</p>
+    <strong>Concepts of Programming Languages</strong><br />
+    by Robert W. Sebesta<br />
+    <em>Ninth Edition</em><br />
+    <p style="max-width: 300px; margin-top: 8px;">
+      A comprehensive introduction to programming languages, covering concepts, paradigms, and design.
+    </p>
   </div>
 </div>
 

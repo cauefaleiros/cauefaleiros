@@ -25,7 +25,7 @@ Also a fan of fantasy and romantic comedy novels, as well as watching anime and 
 
 ## Currently Reading
 
-| ![Concepts of Programming Languages](concepts-of-programming-languages.jpg) | **Concepts of Programming Languages**<br>*by Robert W. Sebesta*<br><br>A comprehensive introduction to programming languages, covering concepts, paradigms, and design. |
+| <img src="concepts-of-programming-languages.jpg" width="180" alt="Concepts of Programming Languages cover"/> | **Concepts of Programming Languages**<br>*by Robert W. Sebesta*<br><br>A comprehensive introduction to programming languages, covering concepts, paradigms, and design. |
 |---|---|
 
 ---
@@ -33,5 +33,4 @@ Also a fan of fantasy and romantic comedy novels, as well as watching anime and 
 ## Contacts
 
 📫 E-mail: [cauefaleiros@gmail.com](mailto:cauefaleiros@gmail.com)<br>
-🌐 LinkedIn: [Cauê Faleiros](https://www.linkedin.com/in/cauefaleiros/)
-
+💼 LinkedIn: [Cauê Faleiros](https://www.linkedin.com/in/cauefaleiros/)

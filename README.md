@@ -14,6 +14,7 @@ Also a fan of fantasy and romantic comedy novels.
 - Ruby on Rails
 - Python (FastAPI, Django)
 - Java (Spring Boot)
+- HTML, CSS
 - C
 - Linux
 - Docker

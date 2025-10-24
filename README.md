@@ -1,11 +1,11 @@
 # Hi, I'm a Backend Developer and Computer Enthusiast
 
-I love backend development and learning new things.  
-I'm always trying to get better, even if it takes time.  
-I enjoy reading about programming theory, language design, and low-level programming.  
+Passionate about backend development and always eager to learn new things.  
+Constantly working to improve, no matter how long it takes.  
+Fascinated by programming theory, language design, and low-level programming.
 
-In my free time, I like to develop games and play Pokémon and MOBA games.  
-I also enjoy fantasy and romantic comedy novels.
+When not coding, I enjoy developing games and playing Pokémon and MOBA titles.  
+Also a fan of fantasy and romantic comedy novels.
 
 ---
 
@@ -29,7 +29,7 @@ I also enjoy fantasy and romantic comedy novels.
     <strong>Concepts of Programming Languages</strong><br />
     by Robert W. Sebesta<br />
     <em>Ninth Edition</em><br />
-    <p style="max-width: 300px; margin-top: 8px;">
+    <p style="width: 200px; margin-right: 20px;">
       A comprehensive introduction to programming languages, covering concepts, paradigms, and design.
     </p>
   </div>

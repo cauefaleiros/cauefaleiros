@@ -24,7 +24,7 @@ I also enjoy fantasy and romantic comedy novels.
 ## Currently Reading
 
 <div style="display: flex; align-items: center; gap: 20px; margin-top: 10px;">
-  <img src="https://images-na.ssl-images-amazon.com/images/I/41X7n-1WiJL._SX403_BO1,204,203,200_.jpg" alt="Concepts of Programming Languages" width="120" />
+  <img src="51M1-8dgi1L._SL1200___76126.jpg" alt="Concepts of Programming Languages" width="120" />
   <div>
     <strong>Concepts of Programming Languages</strong><br />
     by Robert W. Sebesta<br />

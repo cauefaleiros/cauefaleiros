@@ -1,28 +1,24 @@
-## Minhas habilidades
+# Hi, I'm a Backend Developer and Computer Science Student
 
-#### Tecnologias Principais:
+Welcome to my GitHub profile! I'm passionate about backend development and continuously learning new technologies.
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+---
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+## Technologies I work with:
 
-#### Estudando:
+- Ruby, Ruby on Rails
+- Java, Spring Boot
+- Python, FastAPI
+- Linux, C
+- Docker
+- PostgreSQL, MongoDB
 
-![Selenium](https://img.shields.io/badge/selenium-pink?style=for-the-badge&logo=selenium&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas-dark?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
-![GIT](https://img.shields.io/badge/GIT-blue?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+---
 
-
-## Contatos:
-
-<div> 
-<a href = "mailto:cauefaleiros@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/cauefaleiros" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<div style="display: flex; align-items: center;">
+  <img src="5a2c441e-4073-4831-8a76-76439422af08.png" alt="Current Book: Concepts of Programming Languages by Sebesta" width="200" style="margin-right: 20px;" />
+  <div>
+    <h3>Currently Reading:</h3>
+    <p><strong>Concepts of Programming Languages</strong> by Robert W. Sebesta</p>
+  </div>
 </div>
- 
-
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>

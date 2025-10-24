@@ -25,7 +25,7 @@ Also a fan of fantasy and romantic comedy novels, as well as watching anime and 
 
 ## Currently Reading
 
-| ![Concepts of Programming Languages](51M1-8dgi1L._SL1200___76126.jpg) | **Concepts of Programming Languages**<br>*by Robert W. Sebesta*<br><br>A comprehensive introduction to programming languages, covering concepts, paradigms, and design. |
+| ![Concepts of Programming Languages](concepts-of-programming-languages.jpg) | **Concepts of Programming Languages**<br>*by Robert W. Sebesta*<br><br>A comprehensive introduction to programming languages, covering concepts, paradigms, and design. |
 |---|---|
 
 ---

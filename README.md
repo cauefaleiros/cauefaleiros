@@ -14,8 +14,8 @@ Also a fan of fantasy and romantic comedy novels, as well as watching anime and 
 - Ruby on Rails
 - Python (FastAPI, Django)
 - Java (Springboot)
-- HTML, CSS
 - C
+- HTML, CSS
 - Linux
 - Docker
 - PostgreSQL, MongoDB

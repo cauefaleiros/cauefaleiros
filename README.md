@@ -20,8 +20,8 @@ Passionate about backend development and always eager to learn new things, const
 ## Currently Reading
 | | |
 |---|---|
-| <img src="./concepts-of-programming-languages.jpg" width="180" alt="Concepts of Programming Languages cover"/> | **Concepts of Programming Languages**<br>*by Robert W. Sebesta*<br><br>A comprehensive introduction to programming languages, covering concepts, paradigms, and design. |
-| <img src="./introductory-discrete-mathematics.jpg" width="180" alt="Introductory Discrete Mathematics cover"/> | **Introductory Discrete Mathematics**<br>*by V. K. Balakrishnan*<br><br>An introduction to discrete mathematics, covering fundamental concepts and mathematical structures. |
+| <img src="https://raw.githubusercontent.com/<cauefaleiros>/<cauefaleiros>/main/concepts-of-programming-languages.jpg" width="180" alt="Concepts of Programming Languages cover"/> | **Concepts of Programming Languages**<br>*by Robert W. Sebesta*<br><br>A comprehensive introduction to programming languages, covering concepts, paradigms, and design. |
+| <img src="https://raw.githubusercontent.com/<cauefaleiros>/<cauefaleiros>/main/introductory-discrete-mathematics.jpg" width="180" alt="Introductory Discrete Mathematics cover"/> | **Introductory Discrete Mathematics**<br>*by V. K. Balakrishnan*<br><br>An introduction to discrete mathematics, covering fundamental concepts and mathematical structures. |
 
 ---
 
